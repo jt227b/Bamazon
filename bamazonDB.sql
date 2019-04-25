@@ -10,6 +10,7 @@ product_name VARCHAR(50) NOT NULL,
 department_name VARCHAR(50) NOT NULL,
 price DECIMAL(10,5) NOT NULL,
 stock_quantity INT(10) NOT NULL,
+primary key(item_id)
 );
 
 SELECT * FROM products;
