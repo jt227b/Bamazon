@@ -62,7 +62,7 @@ function promptCustomerForQuantity(product) {
       {
         type: "input",
         name: "quantity",
-        message: "How many would you like? [Quit with Q]",
+        message: "How many would you like to purchase? [Type Q to Quit]",
         validate: function (val) {
           return val > 0 || val.toLowerCase() === "q";
         }
