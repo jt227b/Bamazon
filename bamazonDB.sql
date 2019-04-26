@@ -13,7 +13,7 @@ stock_quantity INT(10) NOT NULL,
 primary key(item_id)
 );
 
-SELECT * FROM products;
+
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 
@@ -28,3 +28,5 @@ VALUES
     ("Fortnite PS4", "Video Games", 24.49, 42),
     ("Decor Mason Jars", "Home & Kitchen", 8.99, 57),
     ("Huffy Kids Bike", "Sports & Outdoors", 129.99, 32);
+
+    SELECT * FROM products;
