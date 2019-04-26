@@ -79,7 +79,7 @@ Thank You For Visiting Bamazon :)
 1. MySQL Workbench Bamazon Database 
 <img width="960" alt="mysql" src="https://user-images.githubusercontent.com/46248532/56783602-30ad1580-67b2-11e9-8677-01271f93565d.png">
 
-2. node bamazonCustomer.js -> item purchase -> quantity -> if overboard Insufficient quantity -> Q yo Quit
+2. node bamazonCustomer.js -> item purchase -> quantity -> if overboard Insufficient quantity -> Q to Quit
 <img width="376" alt="Node" src="https://user-images.githubusercontent.com/46248532/56783628-4faba780-67b2-11e9-8da5-3c99b3913cc2.png">
 
 
